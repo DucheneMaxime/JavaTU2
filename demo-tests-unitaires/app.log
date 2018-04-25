@@ -1,0 +1,178 @@
+10:16:08.089 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+10:16:08.092 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+10:16:08.092 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:16:08.092 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+10:16:42.973 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+10:16:42.977 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+10:16:42.977 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:16:42.977 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+10:32:48.242 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+10:32:48.245 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+10:32:48.245 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:32:48.245 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+10:34:47.787 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+10:34:47.791 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+10:34:47.791 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:34:47.791 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+10:41:10.222 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+10:41:10.224 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+10:41:10.225 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:41:10.225 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+10:43:28.177 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+10:43:28.180 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+10:43:28.180 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:43:28.180 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+10:44:51.024 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+10:44:51.027 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+10:44:51.027 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:44:51.027 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+10:50:05.770 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:50:16.872 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:51:07.966 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:51:46.242 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:52:44.329 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:57:06.429 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+10:57:06.431 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+10:57:06.431 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+10:57:06.431 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:02:58.454 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:02:58.457 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:02:58.457 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:02:58.457 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:04:11.820 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:04:11.822 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:04:11.822 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:04:11.822 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:04:40.024 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:04:40.028 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:04:40.028 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:04:40.028 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:06:02.478 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:06:02.480 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:06:02.480 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:06:02.480 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:06:09.528 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:06:09.531 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:06:09.531 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:06:09.531 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:06:15.661 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:16:52.062 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:17:04.366 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:17:42.651 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:26:46.448 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:26:46.451 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:26:46.451 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:26:46.451 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:27:14.327 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:30:56.476 [main] DEBUG monLogger -
+				Evaluation de l'expression 3/4
+11:31:49.571 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:31:49.575 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:31:49.575 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:31:49.575 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:31:53.697 [main] DEBUG monLogger -
+				Evaluation de l'expression 3/4
+11:37:38.922 [main] DEBUG monLogger -
+				Evaluation de l'expression 3/4
+11:38:35.276 [main] DEBUG monLogger -
+				Evaluation de l'expression 3/4
+11:43:40.143 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:43:40.146 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:43:40.146 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:43:40.146 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:46:51.096 [main] DEBUG monLogger -
+				Evaluation de l'expression 3/4
+11:47:29.007 [main] DEBUG monLogger -
+				Evaluation de l'expression 3/4
+11:48:50.749 [main] DEBUG monLogger -
+				Evaluation de l'expression 3/4
+11:49:02.438 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:49:02.442 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:49:02.442 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:49:02.442 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
+11:56:23.255 [main] INFO  dev.service.CalculServiceTest -
+				Étant donné, une instance de la classe CalculService
+11:56:23.257 [main] INFO  dev.service.CalculServiceTest -
+				Lorsque j'évalue l'addition de l'expression 1+3+4
+11:56:23.258 [main] DEBUG monLogger -
+				Evaluation de l'expression 1+3+4
+11:56:23.258 [main] INFO  dev.service.CalculServiceTest -
+				Alors j'obtiens le résultat 8
