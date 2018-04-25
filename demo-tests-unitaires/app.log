@@ -176,3 +176,11 @@
 				Evaluation de l'expression 1+3+4
 11:56:23.258 [main] INFO  dev.service.CalculServiceTest -
 				Alors j'obtiens le résultat 8
+12:18:52.843 [main] INFO  dev.service.CalculServiceTest -
+				Lancement de afficherTitre
+12:19:22.513 [main] INFO  dev.service.CalculServiceTest -
+				**** Application Calculatrice ****
+12:20:25.503 [main] DEBUG dev.service.CalculServiceTest -
+				**** Application Calculatrice ****
+12:23:03.206 [main] DEBUG dev.service.CalculServiceTest -
+				**** Application Calculatrice ****

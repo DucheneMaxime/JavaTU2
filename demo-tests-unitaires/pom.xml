@@ -5,6 +5,14 @@
 	<artifactId>demo-tests-unitaires</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+		<logger name="monLogger" level="INFO">
+		<appender-ref ref="STDOUT" />
+	</logger>
 	<dependencies>
 		<dependency>
 			<groupId>org.slf4j</groupId>
@@ -24,12 +32,21 @@
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.assertj</groupId>
 			<artifactId>assertj-core</artifactId>
 			<version>3.8.0</version>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.github.stefanbirkner</groupId>
+			<artifactId>system-rules</artifactId>
+			<version>1.16.0</version>
+			<scope>test</scope>
+		</dependency>
 	</dependencies>
+	
+
 </project>
