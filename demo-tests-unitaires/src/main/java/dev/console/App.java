@@ -5,6 +5,7 @@ import java.util.Scanner;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import dev.exception.CalculException;
 import dev.service.CalculService;
 import dev.service.CalculServiceTest;
 
@@ -27,6 +28,10 @@ public class App {
 		afficherTitre();
 	}
 
-	protected void evaluer(String expression) {
+	protected void evaluer(String expression) throws CalculException {
+		if (expression.contains("/"))
+			throw new CalculException();
+		int res = calculatrice.additioner(expression);
+		System.out.println(expression + "=" + res);
 	}
 }

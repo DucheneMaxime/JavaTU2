@@ -25,13 +25,15 @@ public class CalculServiceTest {
 	}
 
 	@Test(expected = CalculException.class)
-	public void testCalculInvalide() {
+	public void testCalculInvalide() throws Exception {
+		LOG.info("Étant donné, une instance de la classe CalculService");
 		CalculService c = new CalculService();
-		try {
-			int somme = c.additioner("3/4");
-		} catch (CalculException e) {
-			System.out.println(e.toString());
-		}
+
+		LOG.info("Lorsque j'évalue l'addition de l'expression 1+3+4");
+		int somme = c.additioner("3/4");
+
+		LOG.info("Alors j'obtiens le résultat 8");
+		assertThat(somme).isEqualTo(8);
 	}
 
 }

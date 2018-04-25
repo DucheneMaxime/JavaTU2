@@ -6,4 +6,8 @@ public class CalculException extends Exception {
 		super();
 	}
 
+	public void toString(String expression) {
+		System.out.println("L'expression " + expression + " est invalide");
+	}
+
 }
